@@ -4,6 +4,7 @@
 <%@page import="com.sv.udb.controlador.PersCtrl"%>
 <%@page import="com.sv.udb.modelo.Pers"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
+
 <!DOCTYPE html> 
 <html>
 	<head>
@@ -37,13 +38,10 @@
                             
                               
                               <li>
-                                    <a href="index.jsp">proveedor</a>
+                                    <a href="index.jsp">Persona</a>
                             </li>
                             <li>
-                                    <a href="piezas.jsp">Piezas</a>
-                            </li>
-                            <li>
-                                    <a href="bodega.jsp">Bodega</a>
+                                    <a href="#">Historial</a>
                             </li>
             </ul>
         </nav>
